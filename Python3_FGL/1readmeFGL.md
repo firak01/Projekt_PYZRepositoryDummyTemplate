@@ -1,4 +1,4 @@
-# PYZTryoutPython
+# TryoutPython
 Python Tryouts
 
 u.a. ergänzende Beispiele für Kapitel des Buchs "Python 3 - Das umfassende Handbuch" (6. Auflage)
@@ -24,4 +24,8 @@ Aufgrund der dann im Buch verwendeten neuere Syntax, habe ich dann einige Beispi
 ------------------------------
 Plugin mylin.Wikitext<br>
 Doku dazu<br>
-https://help.eclipse.org/latest/index.jsp?topic=%2Forg.eclipse.mylyn.wikitext.help.ui%2Fhelp%2FGetting-Started.html
+https://help.eclipse.org/latest/index.jsp?topic=%2Forg.eclipse.mylyn.wikitext.help.ui%2Fhelp%2FGetting-Started.html<BR>
+
+Tip:<BR>
+Im Editor F1 drücken. Dann kommt eine Kurzreferenz mit den Markdown Struktur-Anweisungen
+
